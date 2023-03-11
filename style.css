@@ -1,0 +1,8 @@
+body {
+    background-color: blanchedalmond;}
+    h1 {color: blue;}
+    h1 {text-shadow:2px 2px 3px black}
+p {font-size: 22px;}
+p:first-letter { color:red; font-size:30px;}
+img {height: 200px; width:500px;}
+a {text-decoration: none;}
